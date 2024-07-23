@@ -6,10 +6,10 @@
 
 /* Estilos globais */
 body {
+    background-color: #90f1a5; 
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #90f1a5;
 }
 
 /* Header */
