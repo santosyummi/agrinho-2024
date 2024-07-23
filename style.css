@@ -15,14 +15,15 @@ body {
 
 /* Header */
 header {
-    background: #333;
-    color: #fff;
+    background: #aef7be;
+    color: #39e97c;
     padding: 10px 0;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
+    color: black
 }
 
 /* Main */
@@ -31,18 +32,18 @@ main {
 }
 
 /* Seção de introdução */
-.intro {
+.introducao {
     text-align: center;
 }
 
-.intro .imagem-principal {
+.introducao .imagem-principal {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
 }
 
 /* Seção de galeria */
-.galeria {
+.desenvolvimento {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
