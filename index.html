@@ -8,43 +8,63 @@
 </head>
 <body>
     <header>
-        <div class="container">
-            <h1>Do Campo à Cidade</h1>
-            <p>Colhendo Oportunidades</p>
-        </div>
+        <h1>Do Campo à Cidade: Colhendo Oportunidades</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#services">Serviços</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
     </header>
-    <section class="intro">
+
+    <section id="home">
         <div class="container">
-            <h2>Bem-vindo ao Nosso Site!</h2>
-            <p>Descubra as oportunidades que unem o campo e a cidade.</p>
+            <h2>Bem-vindo ao Nosso Projeto</h2>
+            <p>Explorando as oportunidades de crescimento e desenvolvimento, do campo à cidade.</p>
         </div>
     </section>
-    <section class="main-content">
+
+    <section id="about">
         <div class="container">
-            <h2>Oportunidades em Destaque</h2>
-            <div class="opportunities">
-                <div class="opportunity">
-                    <img src="https://via.placeholder.com/150" alt="Oportunidade 1">
-                    <h3>Oportunidade 1</h3>
-                    <p>Descrição breve da oportunidade.</p>
-                </div>
-                <div class="opportunity">
-                    <img src="https://via.placeholder.com/150" alt="Oportunidade 2">
-                    <h3>Oportunidade 2</h3>
-                    <p>Descrição breve da oportunidade.</p>
-                </div>
-                <div class="opportunity">
-                    <img src="https://via.placeholder.com/150" alt="Oportunidade 3">
-                    <h3>Oportunidade 3</h3>
-                    <p>Descrição breve da oportunidade.</p>
-                </div>
-            </div>
+            <h2>Sobre Nós</h2>
+            <p>Somos uma iniciativa dedicada a conectar o campo com a cidade, promovendo oportunidades e soluções inovadoras.</p>
         </div>
     </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Serviços</h2>
+            <ul>
+                <li>Consultoria</li>
+                <li>Treinamentos</li>
+                <li>Suporte</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contato</h2>
+            <p>Entre em contato conosco para mais informações.</p>
+            <form>
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Mensagem:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </section>
+
     <footer>
-        <div class="container">
-            <p>&copy; 2024 Do Campo à Cidade. Todos os direitos reservados.</p>
-        </div>
+        <p>&copy; 2024 Do Campo à Cidade. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>

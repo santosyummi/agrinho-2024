@@ -1,87 +1,103 @@
-/* Reset básico e estilos gerais */
-* {
-    box-sizing: border-box;
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    color: #000;
+    background-color: #2d6a4f; /* Verde escuro */
     margin: 0;
     padding: 0;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-}
-
-.container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
 header {
-    background-color: #333;
-    color: #ffffff00;
-    padding: 10px 0;
+    background-color: #3f9d6f; /* Verde mais claro */
+    color: #fff;
+    padding: 1rem;
     text-align: center;
 }
 
 header h1 {
-    font-size: 2.5e;
-    margin-bottom: 10px;
-    color: rgb(107, 236, 107);
+    margin: 0;
 }
 
-header p {
-    font-size: 1.5em;
+nav ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-.intro {
-    background-color: #f9f9f9;
-    padding: 50px 0;
-    text-align: center;
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
 }
 
-.intro h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
 }
 
-.main-content {
-    padding: 50px 0;
-    text-align: center;
+section {
+    padding: 2rem;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
-.main-content h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-.opportunities {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-
-.opportunity {
-    width: 30%;
-    margin-bottom: 20px;
-    padding: 10px;
+.container {
     background-color: #fff;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: center;
+    color: #000;
+    padding: 1rem;
+    border-radius: 5px;
 }
 
-.opportunity img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px;
+h2 {
+    margin-top: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 1rem;
+}
+
+form input, form textarea {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: #3f9d6f; /* Verde mais claro */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #2d6a4f; /* Verde escuro */
 }
 
 footer {
-    background-color: #333;
+    background-color: #3f9d6f; /* Verde mais claro */
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 1rem;
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 0.5rem 0;
+    }
 }
