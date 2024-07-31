@@ -6,10 +6,12 @@
 
 /* Header */
 .cabecalho {
-    background: #aef7be;
-    color: #000000;
-    padding: 10px 0;
-    text-align: center;
+    background-color: #c5c1c1;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 /* Footer */
