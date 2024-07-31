@@ -24,20 +24,6 @@ header h1 {
     color: black
 }
 
-/* Seção de introdução */
-.introducao {
-    text-align: center;
-}
-
-
-/* Seção de galeria */
-.desenvolvimento {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin-top: 20px;
-}
 
 /* Footer */
 footer {
