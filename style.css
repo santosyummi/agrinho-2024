@@ -24,21 +24,11 @@ header h1 {
     color: black
 }
 
-/* Main */
-main {
-    padding: 20px;
-}
-
 /* Seção de introdução */
 .introducao {
     text-align: center;
 }
 
-.introducao .imagem-principal {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
 
 /* Seção de galeria */
 .desenvolvimento {
@@ -47,24 +37,6 @@ main {
     gap: 10px;
     justify-content: center;
     margin-top: 20px;
-}
-
-.item-galeria {
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    max-width: 300px;
-    text-align: center;
-}
-
-.imagem-galeria {
-    width: 100%;
-    height: auto;
-}
-
-.item-galeria p {
-    padding: 10px;
 }
 
 /* Footer */
