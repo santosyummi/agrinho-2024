@@ -6,7 +6,7 @@
 
 /* Header */
 .cabecalho {
-    background-color: #c5c1c1;
+    background-color: #009b00;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
@@ -16,7 +16,7 @@
 
 /* Footer */
 .rodape {
-    background: #333;
+    background: #0c630c;
     color: #fff;
     padding: 10px 0;
     text-align: center;
