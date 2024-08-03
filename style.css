@@ -14,6 +14,10 @@
     padding: 24px 0;
 }
 
+.imagem-princpal{
+    width: 30px;
+}
+
 /* Footer */
 .rodape {
     background: #0c630c;
