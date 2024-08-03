@@ -21,7 +21,7 @@
 }
 
 .introducaco-titulo{
-    padding: 45px 0;
+    padding: 50px 0;
     text-align: center;
     font-size: 45px;
 }
@@ -33,6 +33,12 @@
 .introducaco-imagem{
 height: 300px;
 width: 320px;
+}
+
+.desenvolvimento{
+    background-image: linear-gradient(rgb(52, 133, 69),rgb(64, 160, 85));
+    color:rgb(0, 0, 0);
+    padding: 50px;
 }
 
 /* Footer */
