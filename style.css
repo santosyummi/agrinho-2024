@@ -17,6 +17,7 @@
 .imagem-principal{
 height: 80px;
 width: 80px;
+display: grid;
 }
 
 /* Footer */
