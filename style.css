@@ -21,12 +21,15 @@
     justify-content: center;
     padding: 50px;
     border-bottom: 2px solid #423049cc;
-    font-size: 15px;
 }
 .introducaco-titulo{
     padding: 45px 0;
     text-align: center;
     font-size: 45px;
+}
+
+.introducacao-texto{
+    font-size: 16px;
 }
 
 .imagem-principal{
