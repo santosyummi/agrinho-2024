@@ -14,10 +14,13 @@
     padding: 24px 0;
 }
 
+.introducao {
+    background-image: linear-gradient(rgb(5, 240, 95), 128, 21), rgb(5, 240, 103));
+}
+
 .imagem-principal{
 height: 300px;
 width: 320px;
-display: grid;
 }
 
 /* Footer */
