@@ -41,6 +41,10 @@ width: 320px;
     padding: 50px;
 }
 
+.explicacao-imagem{
+    width: 80px;
+}
+
 /* Footer */
 .rodape {
     background: #0c630c;
