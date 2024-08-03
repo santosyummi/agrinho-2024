@@ -23,6 +23,11 @@
     border-bottom: 2px solid #423049cc;
     font-size: 15px;
 }
+.introducaco-titulo{
+    padding: 45px 0;
+    text-align: center;
+    font-size: 45px;
+}
 
 .imagem-principal{
 height: 300px;
