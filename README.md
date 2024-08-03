@@ -2,4 +2,4 @@
 
 créditos das imagens:
   imgprincipal = https://blog.climatefieldview.com.br/tecnologia-no-campo/
-  img
+  imgdois = https://www.ruraltectv.com.br/tecnologias-transformar-agro/
