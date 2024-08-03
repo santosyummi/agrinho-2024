@@ -15,7 +15,7 @@
 }
 
 .introducao {
-    dis
+    display: flex;
 }
 
 .imagem-principal{
