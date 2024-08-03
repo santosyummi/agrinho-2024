@@ -16,7 +16,7 @@
 
 .introducao {
     background-image: linear-gradient(rgb(2, 211, 47),rgb(5, 238, 55));
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     padding: 50px;
