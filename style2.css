@@ -1,9 +1,14 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agrinho2</title>
-    <link rel="stylesheet" href="style2.css">
-</head>
+.cabecalho{
+   background-color: #009b00;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 29 px 0; 
+}
