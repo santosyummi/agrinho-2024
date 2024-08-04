@@ -13,7 +13,6 @@ créditos:
     Os textos que contém no site, foram criados por mim, usandos outros sites como base e também com auxílio da inteligência artificial para dar conexão aos textos.
 
     sites base:
-      https://sovis.com.br/blog/como-a-tecnologia-no-campo-evoluiu-ate-os-dias-de-hoje/
 
       https://www.embrapa.br/agencia-de-informacao-tecnologica/cultivos/cana/producao/avanco-tecnologico/agricultura-de-precisao
       
