@@ -19,6 +19,10 @@
     padding: 50px;
 }
 
+.principal-img{
+    width: 250px;
+}
+
 .principal-texto{
     font-size: 21px;
 }
