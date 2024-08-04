@@ -61,6 +61,18 @@ border: solid 10px black;
   border: solid 10px black;
 }
 
+#link{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+#link:hover{
+    font-size: 26px;
+    color: rgb(233, 231, 231);
+    text-decoration: underline;
+}
+
 /* Footer */
 .rodape {
     background: #0c630c;
