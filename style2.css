@@ -12,3 +12,15 @@
     align-items: center;
     padding: 29 px 0; 
 }
+
+.links{
+    font-size: 24px; ;
+    color: black;
+    text-decoration: underline;
+}
+
+.links:hover{
+        font-size: 26px;
+        color: rgb(233, 231, 231);
+        text-decoration: underline;
+}
