@@ -19,3 +19,7 @@ créditos:
       https://www.totvs.com/blog/gestao-agricola/tecnologia-na-agricultura/#:~:text=A%20tecnologia%20na%20agricultura%20envolve,produtos%20e%20preservar%20a%20natureza.
 
       https://blog.aegro.com.br/irrigacao-de-precisao/
+
+      https://agropecfuturo.com.br/o-impacto-da-tecnologia-no-campo/
+
+      https://agazeta.com.br/es/agro/trabalho-digital-multiplica-as--oportunidades-no-campo-0823
