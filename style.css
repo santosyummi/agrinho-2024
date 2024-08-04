@@ -32,6 +32,7 @@
 
 .introducaco-imagem{
 width: 327px;
+border: solid 10px black;
 }
 
 .desenvolvimento{
@@ -42,14 +43,17 @@ width: 327px;
 
 .explicacao-imagem{
     width: 325px;
+    border: solid 10px black;
 }
 
 .influencia-imagem{
     width: 324px;
+    border: solid 10px black;
 }
 
 .oportunidades-imagem{
   width: 326px;
+  border: solid 10px black;
 }
 
 /* Footer */
