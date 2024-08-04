@@ -8,3 +8,9 @@ créditos das imagens:
   imgtres = https://agoravocesabe.com/campo-e-cidade-na-educacao-infantil/
   
   imgquatro = https://agoravocesabe.com/campo-e-cidade-na-educacao-infantil/
+
+créditos: 
+    Os textos que contém no site, foram criados por mim, usandos outros sites como base e também com auxílio da inteligência artificial para dar conexão aos textos.
+
+    sites base:
+      
