@@ -11,13 +11,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 30px 0;
 }
 
 .introducao {
     background-image: linear-gradient(rgb(52, 133, 69),rgb(64, 160, 85));
     color:rgb(0, 0, 0);
-    padding: 50px;
+    padding: 40px;
 }
 
 .introducaco-titulo{
