@@ -68,7 +68,7 @@ border: solid 10px black;
 }
 
 #link:hover{
-    font-size: 26px;
+    font-size: 24px;
     color: rgb(233, 231, 231);
     text-decoration: underline;
 }
