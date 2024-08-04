@@ -17,3 +17,4 @@ créditos:
 
       https://www.embrapa.br/agencia-de-informacao-tecnologica/cultivos/cana/producao/avanco-tecnologico/agricultura-de-precisao
       
+      https://www.totvs.com/blog/gestao-agricola/tecnologia-na-agricultura/#:~:text=A%20tecnologia%20na%20agricultura%20envolve,produtos%20e%20preservar%20a%20natureza.
