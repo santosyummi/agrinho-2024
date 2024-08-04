@@ -32,7 +32,7 @@
 }
 
 .introducacao-texto{
-    font-size: 20px;
+    font-size: 23px;
 }
 
 .introducaco-imagem{
@@ -49,6 +49,10 @@ border: solid 10px black;
 .explicacao-imagem{
     width: 325px;
     border: solid 10px black;
+}
+
+.explicacao-texto{
+    font-size: 23px;
 }
 
 .influencia-imagem{
